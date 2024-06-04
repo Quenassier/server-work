@@ -62,27 +62,38 @@ ALTER USER postgres PASSWORD '1234';
 Задаю пароль 1234 и он сейвится
 ![ew](https://github.com/DenisShestakov1/en_to_rus/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-06-04%20193009.png?raw=true)
 Я неправильно создал базу данных. Переделываю
+
 ![ewfww](https://github.com/DenisShestakov1/en_to_rus/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-06-04%20193015.png?raw=true)
 база данных создана
+
 ![ewfww](https://github.com/DenisShestakov1/en_to_rus/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-06-04%20193019.png?raw=true)
 Подключился 
+
 ![ewfww](https://github.com/DenisShestakov1/en_to_rus/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-06-04%20193024.png?raw=true)
 Я создал таблицу юзеров. След таблица профиль
+
 ![ewfww](https://github.com/DenisShestakov1/en_to_rus/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-06-04%20193033.png?raw=true)
+
 Профиль создал.
 Все таблицы созданы
+
 ![ewfww](https://github.com/DenisShestakov1/en_to_rus/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-06-04%20193039.png?raw=true)
 Заполнил таблицу пользователи
+
 ![ewfww](https://github.com/DenisShestakov1/en_to_rus/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-06-04%20193044.png?raw=true)
 Заполнил таблицу профили
+
 ![ewfww](https://github.com/DenisShestakov1/en_to_rus/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-06-04%20193049.png?raw=true)
 Почекал селект фромами и все нормально. Иду далее
 След шагом по тз устанавливаю джаву и мейвен от майкрософт
+
 ![ewfww](https://github.com/DenisShestakov1/en_to_rus/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-06-04%20193101.png?raw=true)
 Все нормально качаю мейвен
+
 ![ewfww](https://github.com/DenisShestakov1/en_to_rus/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-06-04%20193122.png?raw=true)
 ![ewfww](https://github.com/DenisShestakov1/en_to_rus/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-06-04%20193128.png?raw=true)
 доступ есть
+
 Заранил спринг бут командой mvn spring-boot:run
 ![ewfww](https://github.com/DenisShestakov1/en_to_rus/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-06-04%20193228.png?raw=true)
 Качаю спринг бут
